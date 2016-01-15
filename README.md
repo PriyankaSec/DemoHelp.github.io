@@ -3,9 +3,10 @@ add multiple sheets.</p>
 
 <p>More details are available in this product documentation.</p>
 
--[Developers Guide](https://github.com/PriyankaSec/DemoHelp.github.io/blob/master/DevelopersGuide.md)    
+* [Developers Guide](https://github.com/PriyankaSec/DemoHelp.github.io/blob/master/DevelopersGuide.md)    
 
-    <li><a href="formulareference.html" data-auto-update-caption="true">Formula Reference</a></li>
+   <ul>
+   <li><a href="formulareference.html" data-auto-update-caption="true">Formula Reference</a></li>
 
     <li><a href="scmain.html" data-auto-update-caption="true">Sample Code</a></li>
 
