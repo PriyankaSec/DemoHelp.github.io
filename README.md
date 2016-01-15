@@ -3,8 +3,7 @@ add multiple sheets.</p>
 
 <p>More details are available in this product documentation.</p>
 
-<ul>
-    <li><a href="devguide.html" data-auto-update-caption="true">Developer's Guide</a></li>
+-[Developers Guide](https://github.com/PriyankaSec/DemoHelp.github.io/blob/master/DevelopersGuide.md)    
 
     <li><a href="formulareference.html" data-auto-update-caption="true">Formula Reference</a></li>
 
